@@ -53,8 +53,9 @@ export const Signup = () => {
               md: "40vw",
               lg: "30vw",
               xl: "30vw",
+              minHeight: "60px",
             },
-            height: "60vh",
+            
           }}
         >
           <Typography style={heading}>Sign up</Typography>
